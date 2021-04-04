@@ -4,7 +4,7 @@ let app=express()
 
 app.get('/', (req,res)=>{
 
-    res.send("hello")
+    res.send("Hello World")
 
 }  )
 
